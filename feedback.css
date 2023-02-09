@@ -1,0 +1,16 @@
+*
+{
+    background-color: hsl(20, 61%, 64%);
+}
+input
+{
+    margin: 10px;
+        outline: none;
+        border-radius: 5px ;
+        border: 2px solid black ; 
+        height: 25px;
+}
+legend
+{
+    font-size: 20px;
+}
